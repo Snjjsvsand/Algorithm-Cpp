@@ -1,0 +1,2 @@
+﻿大数相减.obj : error LNK2005: main 已经在 大数相加.obj 中定义
+D:\AlgorithmPratice\CppVisualStudio\C++算法练习(Visual Studio)\x64\Release\Project1.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
