@@ -237,5 +237,14 @@
     <ClCompile Include="递归实现排列型枚举.cpp">
       <Filter>源文件\算法竞赛进阶指南\基础算法\递推与递归</Filter>
     </ClCompile>
+    <ClCompile Include="费解的开关.cpp">
+      <Filter>源文件\算法竞赛进阶指南\基础算法\递推与递归</Filter>
+    </ClCompile>
+    <ClCompile Include="汉诺塔.cpp">
+      <Filter>源文件\算法竞赛进阶指南\基础算法\递推与递归</Filter>
+    </ClCompile>
+    <ClCompile Include="奇怪的汉诺塔.cpp">
+      <Filter>源文件\算法竞赛进阶指南\基础算法\递推与递归</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
