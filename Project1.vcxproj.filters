@@ -103,6 +103,12 @@
     <Filter Include="源文件\算法竞赛进阶指南\基础算法\递推与递归">
       <UniqueIdentifier>{dc2960be-9ffc-4b21-b4a4-133632ed5b98}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\算法竞赛进阶指南\基础算法\前缀和">
+      <UniqueIdentifier>{346122a1-dfaa-40c2-96bb-faf533e964fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\算法竞赛进阶指南\基础算法\差分">
+      <UniqueIdentifier>{874773b3-d03c-4ecd-9496-e5ce2b4c14ee}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="大数相加.cpp">
@@ -251,6 +257,15 @@
     </ClCompile>
     <ClCompile Include="非递归实现组合型枚举 .cpp">
       <Filter>源文件\算法竞赛进阶指南\基础算法\递推与递归</Filter>
+    </ClCompile>
+    <ClCompile Include="激光炸弹.cpp">
+      <Filter>源文件\算法竞赛进阶指南\基础算法\前缀和</Filter>
+    </ClCompile>
+    <ClCompile Include="分治计算等比数列前n项和.cpp">
+      <Filter>源文件\算法竞赛进阶指南\基础算法\递推与递归</Filter>
+    </ClCompile>
+    <ClCompile Include="IncDec Sequence.cpp">
+      <Filter>源文件\算法竞赛进阶指南\基础算法\差分</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
