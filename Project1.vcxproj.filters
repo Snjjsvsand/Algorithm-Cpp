@@ -109,6 +109,9 @@
     <Filter Include="源文件\算法竞赛进阶指南\基础算法\差分">
       <UniqueIdentifier>{874773b3-d03c-4ecd-9496-e5ce2b4c14ee}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\算法竞赛进阶指南\基础算法\二分搜索">
+      <UniqueIdentifier>{e320c948-0e5b-4257-a8ad-f3aa52f5a32a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="大数相加.cpp">
@@ -269,6 +272,15 @@
     </ClCompile>
     <ClCompile Include="Tallest Cow.cpp">
       <Filter>源文件\算法竞赛进阶指南\基础算法\差分</Filter>
+    </ClCompile>
+    <ClCompile Include="Euphoria与小卖部.cpp">
+      <Filter>源文件\算法竞赛进阶指南\基础算法\递推与递归</Filter>
+    </ClCompile>
+    <ClCompile Include="书的堆叠.cpp">
+      <Filter>源文件\算法竞赛进阶指南\基础算法\二分搜索</Filter>
+    </ClCompile>
+    <ClCompile Include="连续子数组的最大和.cpp">
+      <Filter>源文件\算法竞赛进阶指南\基础算法\前缀和</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
