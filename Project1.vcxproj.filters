@@ -112,6 +112,12 @@
     <Filter Include="源文件\算法竞赛进阶指南\基础算法\二分搜索">
       <UniqueIdentifier>{e320c948-0e5b-4257-a8ad-f3aa52f5a32a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\算法竞赛进阶指南\基础算法\排序">
+      <UniqueIdentifier>{24d40c18-2ee9-4010-9286-89e1d0055d75}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\算法竞赛进阶指南\基础算法\排序\离散化">
+      <UniqueIdentifier>{ac6b20b0-1db8-4a37-9a76-eca7b7ce0d7f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="大数相加.cpp">
@@ -281,6 +287,12 @@
     </ClCompile>
     <ClCompile Include="连续子数组的最大和.cpp">
       <Filter>源文件\算法竞赛进阶指南\基础算法\前缀和</Filter>
+    </ClCompile>
+    <ClCompile Include="Best Cow Fences (最佳牛围栏).cpp">
+      <Filter>源文件\算法竞赛进阶指南\基础算法\二分搜索</Filter>
+    </ClCompile>
+    <ClCompile Include="电影.cpp">
+      <Filter>源文件\算法竞赛进阶指南\基础算法\排序\离散化</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
